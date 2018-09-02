@@ -1,4 +1,8 @@
 #!/usr/bin/python
+'''
+This python script is used to calculate the time , where the data and speed of transfer are given as input Like 
+DATA:512 KB SPEED:1 Mbps
+'''
 b=1		#bit
 B=8*b		#Byte
 KB=1024*B	#KiloByte
